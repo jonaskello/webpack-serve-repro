@@ -1,0 +1,19 @@
+# Dependency directory
+node_modules
+
+# Build directory
+lib
+lib-dev
+dist
+dist-dev
+
+# Webpack stats
+stats.json
+
+# Other
+.DS_Store
+thumbs.db
+*.log
+
+# VS
+.vs
